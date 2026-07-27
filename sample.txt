@@ -1,0 +1,3 @@
+Hello Ganesh!
+welcome to python file Handling.
+This line was added using append mode.
