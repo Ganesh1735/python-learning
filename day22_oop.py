@@ -47,6 +47,3 @@ student1=student("Ganesh",25)
 student2=student("Isha",23)
 print(student1.name,student1.age)
 print(student2.name,student2.age)
-
-
-
