@@ -47,7 +47,7 @@ while True:
     elif choice == "4":
         search_student()
     
-    elif choice == "5":
+    elif choice == "5":S
         print("Thank you!")
         break
             
